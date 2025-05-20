@@ -1,1 +1,3 @@
-# dotnet-mcp
+# MCP Pet Project
+
+Experimental project for MCP.
